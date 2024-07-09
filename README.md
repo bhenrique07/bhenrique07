@@ -1,7 +1,7 @@
 
   # Fala, galera! :metal:
 
-  Meu nome é Brenner Henrique e eu sou **Desenvolvedor de Software Backend** desde 2023, graduando em Sistemas de Informação pela UFF, também estudo Desenvolvimento de Software pela escola de tecnologia [@CubosAcademy](https://cubos.academy/). Atualmente estudo JavaScript, mas estou totalmente aberto para aprender e estudar novas tecnologias.
+  Meu nome é Brenner Henrique e eu sou **Desenvolvedor de Software Backend** desde 2023, ex-graduando em Sistemas de Informação pela UFF, atualmente na Universidade Cruzeiro do Sul, também estudei Desenvolvimento de Software pela escola de tecnologia [@CubosAcademy](https://cubos.academy/). Atualmente estudando a parte de front-end, na Origamid. E totalmente aberto para aprender e estudar novas tecnologias.
 
   ## 👇 Para me encontrar:
 
